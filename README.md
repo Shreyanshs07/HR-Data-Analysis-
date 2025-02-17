@@ -6,7 +6,6 @@ This project focuses on analyzing HR data to gain *actionable insights* into emp
 ## 🚀 Key Features
 ✅ *Employee Attrition Analysis* – Identifies trends in resignations and terminations across departments.  
 ✅ *Training Cost vs Performance* – Evaluates the impact of training investments on employee performance.  
-✅ * 
 ✅ *KPI Metrics* – Includes Average Satisfaction Score, Training completion rate, Average Age and Average Training cost.  
 ✅ *Dynamic Filters & Drill-throughs* – Allows users to explore data by department, job role, payzone, marital status and performance.  
 
